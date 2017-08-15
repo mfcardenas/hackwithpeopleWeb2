@@ -72,10 +72,10 @@ require_once 'plugins/translate.php';
     <section id="boxes" class="home-section paddingtop-80">
         <div class="container">
             <div class="row">
-                <div class="col-sm-4 col-md-4">
+                <div class="col-sm-2 col-md-4">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-check fa-3x circled bg-skin"></i>
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">The Aging of People</h4>
                         </div>
                         <div class="box text-justify">
@@ -85,10 +85,10 @@ require_once 'plugins/translate.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4 col-md-4">
+                <div class="col-sm-2 col-md-4">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-list-alt fa-3x circled bg-skin"></i>
+                            <i class="fa fa-list-alt fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">Degenerative Diseases</h4>
                         </div>
                         <div class="box text-justify">
@@ -98,10 +98,10 @@ require_once 'plugins/translate.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4 col-md-4">
+                <div class="col-sm-2 col-md-4">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-user-md fa-3x circled bg-skin"></i>
+                            <i class="fa fa-user-md fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">Disabilities</h4>
                         </div>
                         <div class="box text-justify">
@@ -113,20 +113,21 @@ require_once 'plugins/translate.php';
                 </div>
             </div>
         </div>
+    </section>
 
+    <section id="boxes" class="home-section paddingtop-80">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-check fa-3x circled bg-skin"></i>
+<!--                            <i class="fa fa-check fa-2x circled bg-skin"></i>-->
                             <h4 class="h-bold">Assistive Technologies to the Rescue</h4>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-md-6">
@@ -179,7 +180,9 @@ require_once 'plugins/translate.php';
                 </div>
             </div>
         </div>
+    </section>
 
+    <section id="boxes" class="home-section paddingtop-80">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12">
@@ -189,20 +192,19 @@ require_once 'plugins/translate.php';
                 <div class="col-sm-12 col-md-12">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-user-md fa-3x circled bg-skin"></i>
+<!--                            <i class="fa fa-user-md fa-2x circled bg-skin"></i>-->
                             <h4 class="h-bold">These technologies are short-term assistances, but they are not the perfect solution</h4>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
         <div class="container">
             <div class="row">
                 <div class="col-sm-9 col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-check fa-3x circled bg-skin"></i>
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">Too much expensive development</h4>
                         </div>
                         <div class="box text-justify">
@@ -215,7 +217,7 @@ require_once 'plugins/translate.php';
                 <div class="col-sm-6 col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-user-md fa-3x circled bg-skin"></i>
+                            <i class="fa fa-user-md fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">Involving people is not easy</h4>
                         </div>
                         <div class="box text-justify">
@@ -232,7 +234,7 @@ require_once 'plugins/translate.php';
                 <div class="col-sm-6 col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-hospital-o fa-3x circled bg-skin"></i>
+                            <i class="fa fa-hospital-o fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">Lack of customization</h4>
                         </div>
                         <div class="box text-justify">
@@ -245,7 +247,7 @@ require_once 'plugins/translate.php';
                 <div class="col-sm-6 col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <i class="fa fa-list-alt fa-3x circled bg-skin"></i>
+                            <i class="fa fa-list-alt fa-2x circled bg-skin"></i>
                             <h4 class="h-bold">Technologies are not ready yet</h4>
                         </div>
                         <div class="box text-justify">
@@ -257,7 +259,6 @@ require_once 'plugins/translate.php';
                 </div>
             </div>
         </div>
-
     </section>
     <!-- /Section: boxes -->
 
@@ -562,6 +563,155 @@ require_once 'plugins/translate.php';
         </div>
     </section>
     <!-- /Section: testimonial -->
+
+    <!-- Section: boxes -->
+    <section id="boxes" class="home-section paddingtop-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <h4 class="h-bold">Finished Developments</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
+                            <h4 class="h-bold">A fall detector</h4>
+                        </div>
+                        <div class="box text-justify">
+                            <p>
+                                It was developed by students and the technology that was used served to facilitate the initial prototype of the solution. All the documentation that reports the required elements is available, so a similar product can be created.
+                            </p>
+                        </div>
+                        <div class="box text-center">
+                            <img src="images/cajacaidas.png" class="img_responsive"/>
+                            <img src="images/probandocaja.jpg" class="img_responsive"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
+                            <h4 class="h-bold">Prototypes of situation recognizers</h4>
+                        </div>
+                        <div class="box text-justify">
+                            <p>
+                                A basic gesture recognizer (its evolution is in process to be patented) and a fall detector in big facilities. Developed using simulations and produce with open hardware. It won the award for <a href="http://www.paams.net/" target="_blank" data-i18n="home.content_7_2_link_1">IBM en la conferencia PAAMS 2016</a>.
+                            </p>
+                        </div>
+                        <div class="box text-center">
+                            <img src="images/img-grants-2016-1.jpg" class="img_responsive"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section: boxes -->
+    <section id="boxes" class="home-section paddingtop-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <h4 class="h-bold">Some developments in progress</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
+                            <h4 class="h-bold">Crowd tracker</h4>
+                        </div>
+                        <div class="box text-justify">
+                            <p>
+                                With the information of the traffic of people in a specific point of a building, we try to know the amount of people that there are in the rest of the building without invading their privacy.
+                            </p>
+                        </div>
+                        <div class="box text-center">
+                            <img src="images/img-flujo-multitudes-2.png" class="img_responsive"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
+                            <h4 class="h-bold">Monitor of repeated or forgotten activities</h4>
+                        </div>
+                        <div class="box text-justify">
+                            <p>
+                                Based on technology to recognize activities, we want to develop a system that learn the costumes of the patient and that identifies when an activity has been done, has not been done or is half done.
+                            </p>
+                        </div>
+                        <div class="box text-center">
+                            <img src="images/img-olv-object.png" class="img_responsive"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <h4 class="h-bold">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box text-center">
+                            <i class="fa fa-check fa-2x circled bg-skin"></i>
+                            <h4 class="h-bold">TV remote control that accepts mild tremor</h4>
+                        </div>
+                        <div class="box text-justify">
+                            <p>
+                                Describing how a TV remote control that accepts user's mild tremor would be.
+                            </p>
+                        </div>
+                        <div class="box text-center">
+                            <img src="images/img-parkinson-watching-tv.png" class="img_responsive"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="wow lightSpeedIn" data-wow-delay="0.1s">
+                            <div class="box text-center">
+                                <div class="cta-btn">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Section: boxes -->
+    <section id="boxes" class="home-section paddingtop-80">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+            </div>
+        </div>
+    </section>
 
     <?php
     include_once 'section/footer.php';

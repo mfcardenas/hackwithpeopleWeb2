@@ -439,6 +439,15 @@
 					</div>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-sm-12 col-md-12">
+					<div class="wow fadeInUp" data-wow-delay="0.2s">
+						<div class="box text-left">
+							* At the moment, online comments are only supported in the Mozilla Firefox browser.
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</section>
 
