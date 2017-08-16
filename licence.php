@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+	require_once 'section/translate.php';
+?>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="images/logo.ico" type="image/x-icon">
-    <meta name="description" content="">
-    <meta name="author" content="">
+	<meta name="description" content="">
+	<meta name="author" content="">
 
-	<title><?php echo _("HackWithPeople - Licence"); ?></title>
+	<title><?php echo _("HackWithPeople"); ?>-<?php echo _("Licence"); ?></title>
 
 	<?php
 		include_once 'section/includes_header.php';
@@ -17,7 +19,6 @@
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-
 <div id="wrapper">
 
 	<?php
@@ -32,8 +33,8 @@
 	</section>
 
 	<!-- Section: boxes -->
-    <section id="boxes" class="home-section paddingtop-80">
-	
+	<section id="boxes" class="home-section paddingtop-80">
+
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 col-md-12">
@@ -748,16 +749,16 @@
 	<!-- /Section: boxes -->
 
 	<?php
-		include_once 'section/footer.php';
+	include_once 'section/footer.php';
 	?>
 
 </div>
 <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
 
 <?php
-	include_once 'section/includes_footer.php';
+include_once 'section/includes_footer.php';
 ?>
-    
+
 </body>
 
 </html>

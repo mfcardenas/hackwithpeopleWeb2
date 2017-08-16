@@ -39,8 +39,8 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right"><?php echo _("Language"); ?></span><b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="index.php"><?php echo _("English");?>&nbsp;<img src="images/img_uk_b.png" width="22" height="22"/> </a></li>
-                            <li><a href="index-form.html"><?php echo _("Spanish");?>&nbsp;<img src="images/img_spain_a.png" width="22" height="22"/></a></li>
+                            <li><a href="?lang=en_GB"><?php echo _("English");?>&nbsp;<img src="images/img_uk_b.png"    width="22" height="22"/> </a></li>
+                            <li><a href="?lang=es_ES"><?php echo _("Spanish");?>&nbsp;<img src="images/img_spain_a.png" width="22" height="22"/></a></li>
                             <!--li><a href="index-video.html">Home video</a></li-->
                         </ul>
                     </li>

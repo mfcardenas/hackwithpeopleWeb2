@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+    require_once 'section/translate.php';
+?>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,18 +10,14 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php echo _("HackWithPeople"); ?></title>
+    <title><?php echo _("HackWithPeople"); ?>-<?php echo _("Home"); ?></title>
 
     <?php
-    include_once 'section/includes_header.php';
+        include_once 'section/includes_header.php';
     ?>
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-<?php
-require_once 'plugins/translate.php';
-?>
-
 <div id="wrapper">
     <?php
     include_once 'section/header.php';
