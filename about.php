@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-	<title><?php echo _("HackWithPeople"); ?>-<?php echo _("About"); ?></title>
+	<title><?php echo _("About"); ?>-<?php echo _("HackWithPeople"); ?></title>
 
 	<?php
 		include_once 'section/includes_header.php';
