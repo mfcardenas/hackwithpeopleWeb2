@@ -29,4 +29,139 @@ msgid "Spanish"
 msgstr "Español"
 
 msgid "English"
-msgstr "Inglés"
+msgstr "Ingl&eacute;s"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "About"
+msgstr "Sobre Nostros"
+
+msgid "Practical Case"
+msgstr "Casos Pr&aacute;cticos"
+
+msgid "Licence"
+msgstr "Licencia"
+
+msgid "Assistive Technologies to the Rescue"
+msgstr "Tecnolog&iacute;as asistivas al rescate"
+
+msgid "Imminent Challenges"
+msgstr "Retos inminentes"
+
+msgid "The Aging of People"
+msgstr "Envejecimiento de la población"
+
+msgid "Degenerative Diseases"
+msgstr "Enfermedades neurodegenerativas"
+
+msgid "Disabilities"
+msgstr "Discapacidades"
+
+msgid "We shall prepare ourselves with politics of active aging <br/> that could improve the lives of the families."
+msgstr "Debemos prepararnos con políticas de envejecimiento activo <br/> que puedan mejorar la vida de las familias."
+
+msgid "47.6 millions of people are suffering dementia, <br> and there are 7.7 millions of new cases each year."
+msgstr "47.6 millones de personas tienen demencia <br> y hay 7.7 millones de casos nuevos cada año."
+
+msgid "The 10% of the world population is born with some <br/> kind of disability."
+msgstr "Un 10% de la población mundial nace con <br/> alguna discapacidad."
+
+msgid "Europe is approaching to a demographic change."
+msgstr "Europa se acerca a un cambio demográfico. Entre otras medidas, debemos prepararnos con políticas de envejecimiento activo que puedan mejorar la vida de las familias que tengan algún miembro con problemas para desarrollar su actividad diaria."
+
+msgid "On a worldwide level, 47.6 millions of people are suffering dementia,"
+msgstr "A nivel mundial, 47.6 millones de personas tienen demencia y hay 7.7 millones de casos nuevos cada año. El Parkinson afecta a más de 10 millones de personas en el mundo."
+
+msgid "The 10% of the world population is born with some kind of disability."
+msgstr "Un 10% de la población mundial nace con alguna discapacidad. Algunos nacen con discapacidades que les dejan en desventaja en una sociedad no inclusiva. Otros desarrollan la descapacidad a lo largo de su vida, por motivo de algún accidente o alguna enfermedad. Pueden y quieren sentirse capaces."
+
+msgid "Scientific advancements have a slow advance when it comes to neurodegenerative diseases,"
+msgstr "Los avances científicos, en lo que a enfermedades neurodegenerativas se refiere, tienen un avance lento, especialmente por lo errático en la financiación de la investigación básica. Las tecnologías asistivas no son una solución, pero pueden hacer la vida más llevadera a quien tiene alguna enfermedad y pueden integrar mejor a la sociedad a los que tienen alguna discapacidad."
+
+msgid "These technologies consist of the integration of eletrocnic elements in our daily environment,"
+msgstr "Estas tecnologías consisten en la integración de elementos electrónicos en nuestro ambiente cotidiano de tal forma que nos permitan complementar o mantener nuestra calidad de vida. Dichos elementos podríamos llevarlos puestos sobre el cuerpo o en nuestra ropa (wearables) o bien ser elementos de asistencia mecánica, como robots o elevadores."
+
+msgid "Too much expensive development"
+msgstr "Desarrollo demasiado caro"
+
+msgid "Involving people is not easy"
+msgstr "No es sencillo involucrar a las personas"
+
+msgid "Lack of customization"
+msgstr "Falta de personalización"
+
+msgid "Technologies are not ready yet"
+msgstr "Las tecnologías no están todavía listas"
+
+msgid "Every person is unique."
+msgstr "Cada persona es un mundo. Ajustar la tecnología asistiva a su caso particular es un proceso costoso. Los modelos industriales se rigen por la producción en escala de productos totalmente iguales. Cuando se trata de colectivos pequeños, o relativamente pequeños, no se pueden producir medios de precio asequible ajustados al problema de cada uno."
+
+msgid "The trials are slow because reliability must be guaranteed."
+msgstr "Los ensayos son lentos porque hay que garantizar fiabilidad. Además, gran parte de lo que se necesita implica asistencia mecánica, por ejemplo, cuando alguien se cae, para que le ayude a levantarse."
+
+msgid "These technologies are short-term assistances, but they are not the perfect solution."
+msgstr "Estas tecnologías ayudan en el corto plazo, pero no son la solución perfecta"
+
+msgid "A product starts as an idea that is prototyped in a laboratory."
+msgstr "Un producto empieza por una idea que se prototipa en laboratorio. Luego se trabaja con voluntarios o personas a las que se les compensa de alguna manera el esfuerzo. De esta experiencia, se aprende y se rediseña el producto. Después se planifica y ejecuta la producción industrial. Sólo queda llevar el producto al cliente final. En todo este proceso, hay un gasto ingente de recursos materiales y humanos. No todo el mundo puede afrontarlo."
+
+msgid "Many projects fail because they do not propose an interesting solution for those who will use it."
+msgstr "Muchos proyectos fracasan por no proponer una solución de interés para las personas que los usarán. Para evitar esa frustración, se está integrando a voluntarios en la creación de los productos. Ello encarece más el producto, ya que requiere de instalaciones donde hacer las pruebas y de compensaciones para los voluntarios por el esfuerzo realizado. Aparte, plantea nuevas cuestiones. Imaginemos que construimos un detector de caídas: ¿pediremos al voluntario que se caiga?, ¿detectará el producto una caída por una escalera?."
+
+msgid "What we propose?"
+msgstr "¿Qué proponemos?"
+
+msgid "We want that every person who has knowledge can contribute."
+msgstr "Queremos que cualquier persona que tenga conocimientos pueda contribuir."
+
+msgid "To reduce the costs. So the lack of many resources do not involve an obstacle."
+msgstr "Abaratar costes para que no sea un impedimento el no disponer de muchos recursos."
+
+msgid "To break with the limitations. To talk about what does not exist yet and how we want it to be."
+msgstr "Romper las limitaciones y hablar de lo que no existe todavía y cómo queremos que sea."
+
+msgid "To systematize the development and to standardize a responsible experimentation in assistive technologies."
+msgstr "Sistematizar el desarrollo y estandarizar una experimentación responsable en tecnologías asistivas."
+
+msgid "We do not use magic, but engineering"
+msgstr "No usamos magia, sólo ingeniería"
+
+msgid "Ways to contribute"
+msgstr "Formas de colaborar"
+
+msgid "We can use 3D simulators of the problems and solve the problem firstly in the computer."
+msgstr "Podemos usar simulaciones 3D de los problemas y resolver primero el problema en el ordenador."
+
+msgid "We are starting, but we have cases that demonstrate the idea."
+msgstr "Estamos empezando, pero ya tenemos casos que muestran la idea."
+
+msgid "A free and open technology that all people can use. If you are not good at technology, you can also participate sending us your comments of the simulations with CAMAssistant."
+msgstr "Una tecnología libre y abierta que todos pueden usar. Si tu fuerte no es la tecnología, también puedes participar enviándonos comentarios de las simulaciones con el CAMAssistant."
+
+msgid "If you have technological skills, you can contribute modelling or developing solutions."
+msgstr "Si tienes conocimientos tecnológicos, puedes contribuir modelando o desarrollando soluciones."
+
+msgid "Helping with comments about the simulations that we have, giving your opinion about the solutions and problems that we have collected. We use CAMAssistant tool to do that. The cases of use can be seen and directly provide comments. Profile: professional/interested person. "
+msgstr "Ayudar con comentarios sobre las simulaciones que tenemos, opinando sobre las soluciones y los problemas que hemos recogido. Se usa la herramienta CAMAssistant para esto. Pueden visitarse los casos de uso y proveer comentarios directamente. Perfil: profesional/persona con interés."
+
+msgid "Creating 3D models with our tools. We use "
+msgstr "Crear modelos 3D con nuestras herramientas. Se usa "
+
+msgid "the AIDE tool to do that."
+msgstr " la herramienta AIDE para esto. "
+
+msgid "The models will be available online, so they can be downloaded by those who are interested. New models will can also be uploaded. Profile: technological skills are required. "
+msgstr "Dispondremos online los modelos para que los interesados los descarguen y también para que se puedan subir nuevos. Perfil: requiere conocimientos técnicos."
+
+msgid "Collaborating in multidisciplinary teams while modelling. We will set up meetings to co-create solutions or analyzing problems in a collaborative way. Profile: professional/interested person. "
+msgstr "Colaboraren equipos multidisciplinares mientras se modela. Organizaremos reuniones para co-crear soluciones o estudiar problemas de forma colaborativa. Perfil: profesional/persona con interés."
+
+msgid "Suggesting new solutions for other people. We use"
+msgstr "Proponer soluciones para los problemas. Se usa "
+
+msgid "the AIDE tool"
+msgstr "la herramienta AIDE para esto."
+
+msgid "to do that. We have simple examples and tutorials to begin. Profile: technological skills are required."
+msgstr " Disponemos de ejemplos simples y tutoriales con los que empezar. Perfil: requiere conocimientos técnicos."

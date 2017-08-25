@@ -30,23 +30,23 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
-                            <h2 class="h-ultra">Assistive Technologies to the Rescue</h2>
+                            <h2 class="h-ultra"><?php echo _("Assistive Technologies to the Rescue"); ?></h2>
                         </div>
                         <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.1s">
-                            <h4 class="h-light">Imminent Challenges</h4>
+                            <h4 class="h-light"><?php echo _("Imminent Challenges"); ?></h4>
                         </div>
                         <div class="well well-trans">
                             <div class="wow fadeInRight" data-wow-delay="0.1s">
                                 <ul class="lead-list">
                                     <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list">
-									<strong>The Aging of People</strong><br />
-									We shall prepare ourselves with politics of active aging<br/> that could improve the lives of the families.</span></li>
+									<strong><?php echo _("The Aging of People"); ?></strong><br />
+                                            <?php echo _("We shall prepare ourselves with politics of active aging <br/> that could improve the lives of the families."); ?></span></li>
                                     <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list">
-									<strong>Degenerative Diseases</strong><br />
-									47.6 millions of people are suffering dementia,<br/>and there are 7.7 millions of new cases each year.</span></li>
+									<strong><?php echo _("Degenerative Diseases");?></strong><br />
+                                            <?php echo _("47.6 millions of people are suffering dementia, <br> and there are 7.7 millions of new cases each year.");?></span></li>
                                     <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list">
-									<strong>Disabilities</strong><br />
-									The 10% of the world population is born with some<br/>kind of disability.</span></li>
+									<strong><?php echo _("Disabilities");?></strong><br />
+                                            <?php echo _("The 10% of the world population is born with some <br/> kind of disability."); ?></span></li>
                                 </ul>
                                 <p class="text-right wow bounceIn" data-wow-delay="0.4s">
                                     <!--						<a href="#" class="btn btn-skin btn-lg">Learn more <i class="fa fa-angle-right"></i></a>-->
@@ -56,7 +56,8 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="embed-responsive embed-responsive-4by3">
-                            <iframe class="embed-responsive-item" src="http://player.vimeo.com/video/22428395"></iframe>
+<!--                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iV_LJNS2-LM"></iframe>-->
+                            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/230922515"></iframe>
                         </div>
                     </div>
                 </div>
@@ -74,11 +75,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">The Aging of People</h4>
+                            <h4 class="h-bold"><?php echo _("The Aging of People"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                Europe is approaching to a demographic change. Among other measures, we shall prepare ourselves with politics of active aging that could improve the lives of the families who have some member with problems to carry out his or her daily activity.
+                                <?php echo _("Europe is approaching to a demographic change."); ?>
                             </p>
                         </div>
                     </div>
@@ -87,11 +88,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-list-alt fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Degenerative Diseases</h4>
+                            <h4 class="h-bold"><?php echo _("Degenerative Diseases"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                On a worldwide level, 47.6 millions of people are suffering dementia, and there are 7.7 millions of new cases each year. Parkinson's disease affects more than 10 millions of people throughout the world.
+                                <?php echo _("On a worldwide level, 47.6 millions of people are suffering dementia,"); ?>
                             </p>
                         </div>
                     </div>
@@ -100,11 +101,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-user-md fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Disabilities</h4>
+                            <h4 class="h-bold"><?php echo _("Disabilities"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                The 10% of the world population is born with some kind of disability. . Some people are born with disabilities that imply disadvantages in a non-inclusive society. Others develop a disability throughout their lives because of an accident or an illness. They can and they want to feel capable.
+                                <?php echo _("The 10% of the world population is born with some kind of disability."); ?>
                             </p>
                         </div>
                     </div>
@@ -120,7 +121,7 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
 <!--                            <i class="fa fa-check fa-2x circled bg-skin"></i>-->
-                            <h4 class="h-bold">Assistive Technologies to the Rescue</h4>
+                            <h4 class="h-bold"><?php echo _("Assistive Technologies to the Rescue"); ?></h4>
                         </div>
                     </div>
                 </div>
@@ -191,7 +192,7 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
 <!--                            <i class="fa fa-user-md fa-2x circled bg-skin"></i>-->
-                            <h4 class="h-bold">These technologies are short-term assistances, but they are not the perfect solution</h4>
+                            <h4 class="h-bold"><?php echo _("These technologies are short-term assistances, but they are not the perfect solution"); ?></h4>
                         </div>
                     </div>
                 </div>
@@ -203,11 +204,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Too much expensive development</h4>
+                            <h4 class="h-bold"><?php echo _("Too much expensive development"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                A product starts as an idea that is prototyped in a laboratory. Then, we usually work with some volunteers or people who receive some kind of reward for their effort. With this experience, we learn and we redesign the product. . Afterwards, the industrial production is planned and executed. It only remains to deliver the product to the end user. During all this process, there is a huge expense of material and human resources. Not everybody can afford it.
+                                <?php echo _("A product starts as an idea that is prototyped in a laboratory."); ?>
                             </p>
                         </div>
                     </div>
@@ -216,11 +217,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-user-md fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Involving people is not easy</h4>
+                            <h4 class="h-bold"><?php echo _("Involving people is not easy"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                Many projects fail because they do not propose an interesting solution for those who will use it. To avoid this frustration, volunteers are being included in the creation of the products. This decision raises the price, because we require facilities to test the product and compensations for the volunteers for their effort. Moreover, it poses new questions. Let's imagine that we create a fall detector: Do we ask the volunteer to fall down? Will the product detect the fall down a staircase?.
+                                <?php echo _("Many projects fail because they do not propose an interesting solution for those who will use it."); ?>
                             </p>
                         </div>
                     </div>
@@ -233,11 +234,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-hospital-o fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Lack of customization</h4>
+                            <h4 class="h-bold"><?php echo _("Lack of customization"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                Every person is unique. Adjusting assistive technology to every particular case is an expensive process. Industrial models are guided by large-scale production of completely equal products. When the group of end users is small or relative small, we cannot produce affordable solutions adjusted to each one's problems.
+                                <?php echo _("Every person is unique."); ?>
                             </p>
                         </div>
                     </div>
@@ -246,11 +247,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-list-alt fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Technologies are not ready yet</h4>
+                            <h4 class="h-bold"><?php echo _("Technologies are not ready yet"); ?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                The trials are slow because reliability must be guaranteed. In addition, a large part of what is required imply a mechanical assistance, fon instance, when someone falls down, to help this person stand up.
+                                <?php echo _("The trials are slow because reliability must be guaranteed."); ?>
                             </p>
                         </div>
                     </div>
@@ -269,7 +270,7 @@
                             <div class="col-md-12">
                                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="cta-text">
-                                        <h3>What do we propose?</h3>
+                                        <h3><?php echo _("What do we propose?"); ?></h3>
                                     </div>
                                 </div>
                                 <div class="row">
