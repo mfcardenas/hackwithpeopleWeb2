@@ -133,7 +133,7 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-justify">
                             <p>
-                                Scientific advancements have a slow advance when it comes to neurodegenerative diseases, especially because of the erratic funding in basic research. Assistive technologies are not a solution, but they can improve the quality of life of those who suffer from an illness and to better integrate people with some kind of disability.
+                                <?php echo _("Scientific advancements have a slow advance when it comes to neurodegenerative diseases,"); ?>
                             </p>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-justify">
                             <p>
-                                These technologies consist of the integration of eletrocnic elements in our daily environment, so they alow us to complement or to mantain our quality of life. We could wear these elements on our bodies or in our clothes (wearables), they could also be elements of mechanical assistance such as robots and elevators.
+                                <?php echo _("These technologies consist of the integration of eletrocnic elements in our daily environment,"); ?>
                             </p>
                         </div>
                     </div>
@@ -277,28 +277,28 @@
                                     <div class="col-md-3">
                                         <div class="wow fadeInUp" data-wow-delay="0.1s">
                                             <div class="cta-text">
-                                                <p>We want that every person who has knowledge can contribute.</p>
+                                                <p><?php echo _("We want that every person who has knowledge can contribute."); ?></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
                                         <div class="wow fadeInUp" data-wow-delay="0.1s">
                                             <div class="cta-text">
-                                                <p>To reduce the costs. So the lack of many resources do not involve an obstacle.</p>
+                                                <p><?php echo _("To reduce the costs. So the lack of many resources do not involve an obstacle.");?></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
                                         <div class="wow fadeInUp" data-wow-delay="0.1s">
                                             <div class="cta-text">
-                                                <p>To break with the limitations. To talk about what does not exist yet and how we want it to be.</p>
+                                                <p><?php echo _("To break with the limitations. To talk about what does not exist yet and how we want it to be."); ?></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
                                         <div class="wow fadeInUp" data-wow-delay="0.1s">
                                             <div class="cta-text">
-                                                <p>To systematize the development and to standardize a responsible experimentation in assistive technologies.</p>
+                                                <p><?php echo _("To systematize the development and to standardize a responsible experimentation in assistive technologies."); ?></p>
                                             </div>
                                         </div>
                                     </div>
@@ -321,7 +321,7 @@
                             <div class="col-md-12">
                                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="cta-text">
-                                        <h3>We do not use magic, but engineering</h3>
+                                        <h3><?php echo _("We do not use magic, but engineering"); ?></h3>
                                     </div>
                                     <div class="row">
                                         <div class="col-md-12">
@@ -331,16 +331,16 @@
                                                         <ul class="lead-list">
                                                             <li>
                                                                 <span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">We can use 3D simulators of the problems and solve the problem firstly in the computer.</span>
+                                                                <span class="list"><?php echo _("We can use 3D simulators of the problems and solve the problem firstly in the computer."); ?></span>
                                                             </li>
                                                             <li><span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">We are starting, but we have cases that demonstrate the idea.</span>
+                                                                <span class="list"><?php echo _("We are starting, but we have cases that demonstrate the idea."); ?></span>
                                                             </li>
                                                             <li><span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">A free and open technology that all people can use. If you are not good at technology, you can also participate sending us your comments of the simulations with CAMAssistant.</span>
+                                                                <span class="list"><?php echo _("A free and open technology that all people can use. If you are not good at technology, you can also participate sending us your comments of the simulations with CAMAssistant."); ?></span>
                                                             </li>
                                                             <li><span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">If you have technological skills, you can contribute modelling or developing solutions.</span>
+                                                                <span class="list"><?php echo _("If you have technological skills, you can contribute modelling or developing solutions."); ?></span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -366,7 +366,7 @@
                             <div class="col-md-12">
                                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="cta-text">
-                                        <h3>Ways to contribute</h3>
+                                        <h3><?php echo _("Ways to contribute"); ?></h3>
                                     </div>
                                     <div class="row">
                                         <div class="col-md-12">
@@ -376,16 +376,16 @@
                                                         <ul class="lead-list">
                                                             <li>
                                                                 <span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">Helping with comments about the simulations that we have, giving your opinion about the solutions and problems that we have collected. We use CAMAssistant tool to do that. The cases of use can be seen and directly provide comments. Profile: professional/interested person.</span>
+                                                                <span class="list"><?php echo _("Helping with comments about the simulations that we have, giving your opinion about the solutions and problems that we have collected. We use CAMAssistant tool to do that. The cases of use can be seen and directly provide comments. Profile: professional/interested person."); ?></span>
                                                             </li>
                                                             <li><span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">Creating 3D models with our tools. We use the AIDE tool to do that. The models will be available online, so they can be downloaded by those who are interested. New models will can also be uploaded. Profile: technological skills are required.</span>
+                                                                <span class="list"><?php echo _("Creating 3D models with our tools. We use "); ?> <a href="http://grasia.fdi.ucm.es/aide" target="_blank" ><?php echo _("the AIDE tool to do that."); ?></a> <?php echo _("The models will be available online, so they can be downloaded by those who are interested. New models will can also be uploaded. Profile: technological skills are required."); ?></span>
                                                             </li>
                                                             <li><span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">Collaborating in multidisciplinary teams while modelling. We will set up meetings to co-create solutions or analyzing problems in a collaborative way. Profile: professional/interested person.</span>
+                                                                <span class="list"><?php echo _("Collaborating in multidisciplinary teams while modelling. We will set up meetings to co-create solutions or analyzing problems in a collaborative way. Profile: professional/interested person."); ?></span>
                                                             </li>
                                                             <li><span class="fa fa-check fa-2x icon-success"></span>
-                                                                <span class="list">Suggesting new solutions for other people. We use the AIDE tool to do that. We have simple examples and tutorials to begin. Profile: technological skills are required.</span>
+                                                                <span class="list"><?php echo _("Suggesting new solutions for other people. We use"); ?> <a href="http://grasia.fdi.ucm.es/aide" target="_blank" ><?php echo _("the AIDE tool"); ?></a> <?php echo _("to do that. We have simple examples and tutorials to begin. Profile: technological skills are required."); ?></span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -412,8 +412,8 @@
                             <div class="item active">
                                 <div class="col-md-4 col-sm-6">
                                     <div class="block-text rel zmin">
-                                        <a title="" href="#">Modelando los problemas</a>
-                                        <div class="mark">Step:
+                                        <a title="" href="#"><?php echo _("Modeling the problems");?></a>
+                                        <div class="mark"><?php echo _("Step:"); ?>
                                             <span class="rating-input">
                                                 <span data-value="0" class="glyphicon glyphicon-star"></span>
                                                 <span data-value="1" class="glyphicon glyphicon-star-empty"></span>
@@ -423,19 +423,19 @@
                                                 <span data-value="5" class="glyphicon glyphicon-star-empty"></span>
                                             </span>
                                         </div>
-                                        <p>Entre profesionales y especialistas se recrear en simulariones de ordenador las situaciones que describen los pacientes. Se modela el comportamiento del paciente en un escenario ideal y luego cada acción se altera según la discapacidad.</p>
+                                        <p><?php echo _("Among professionals and specialists recreate in computer simulations the situations described by patients. The patient's behavior is modeled in an ideal scenario and then each action is altered according to the disability.");?></p>
                                         <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                     </div>
                                     <div class="person-text rel text-light">
                                         <img src="images/img-carrousel-c1.png" alt="" class="person img-circle-less" />
-                                        <a title="" href="#">Participación abierta</a>
-                                        <span>Profesionales, cuidadores, otros</span>
+                                        <a title="" href="#"><?php echo _("Open Participation");?></a>
+                                        <span><?php echo _("Professionals, caregivers, others"); ?></span>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 hidden-xs">
                                     <div class="block-text rel zmin">
-                                        <a title="" href="#">Comenta los resultados</a>
-                                        <div class="mark">Step:
+                                        <a title="" href="#"><?php echo _("Comment the results");?></a>
+                                        <div class="mark"><?php echo _("Step:");?>
                                             <span class="rating-input">
                                                 <span data-value="0" class="glyphicon glyphicon-star"></span>
                                                 <span data-value="1" class="glyphicon glyphicon-star"></span>
@@ -445,19 +445,19 @@
                                                 <span data-value="5" class="glyphicon glyphicon-star-empty"></span>
                                             </span>
                                         </div>
-                                        <p>La comunicación se canaliza mediante una aplicación web que permitirá a los diferentes interesados, añadir comentarios sobre las simulaciones.</p>
+                                        <p><?php echo _("Communication is channeled through a web application that will allow different stakeholders to add comments on the simulations."); ?></p>
                                         <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                     </div>
                                     <div class="person-text rel text-light">
                                         <img src="images/img-carrousel-c2.png" alt="" class="person img-circle-less" />
-                                        <a title="" href="#">Comentar la simulación</a>
-                                        <span>Web CAMAssistant</span>
+                                        <a title="" href="#"><?php echo _("Comment the simulation"); ?></a>
+                                        <span><?php echo _("Web CAMAssistant");?></span>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 hidden-sm hidden-xs">
                                     <div class="block-text rel zmin">
-                                        <a title="" href="#">Definir la solución</a>
-                                        <div class="mark">Step:
+                                        <a title="" href="#"><?php echo _("Define the solution"); ?></a>
+                                        <div class="mark"><?php echo _("Step:"); ?>
                                             <span class="rating-input">
                                                 <span data-value="0" class="glyphicon glyphicon-star"></span>
                                                 <span data-value="3" class="glyphicon glyphicon-star"></span>
@@ -467,21 +467,21 @@
                                                 <span data-value="5" class="glyphicon glyphicon-star-empty"></span>
                                             </span>
                                         </div>
-                                        <p>Se ahorran costes creando prototipos en ordenador. Su funcionamiento se compara con el esperado por los profesionales. El resultado se traslada en forma de video para que se compruebe iterativamente.</p>
+                                        <p><?php echo _("They save costs by creating computer prototypes. Its performance compares with that expected by professionals. The result is transferred in video form so that it is checked iteratively."); ?></p>
                                         <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                     </div>
                                     <div class="person-text rel text-light">
                                         <img src="images/img-carrousel-c3.png" alt="" class="person img-circle-less" />
-                                        <a title="" href="#">Desarrollo de prototipos en el ordenador</a>
-                                        <span>IA, Sensores, Interfaces</span>
+                                        <a title="" href="#"><?php echo _("Development of prototypes in the computer"); ?></a>
+                                        <span><?php echo _("IA, Sensors, Interfaces"); ?></span>
                                     </div>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="col-md-4 col-sm-6">
                                     <div class="block-text rel zmin">
-                                        <a title="" href="#">Comenta los resultados</a>
-                                        <div class="mark">Step:
+                                        <a title="" href="#"><?php echo _("Comment the results"); ?></a>
+                                        <div class="mark"><?php echo _("Step:"); ?>
                                             <span class="rating-input">
                                                 <span data-value="0" class="glyphicon glyphicon-star"></span>
                                                 <span data-value="1" class="glyphicon glyphicon-star"></span>
@@ -491,19 +491,19 @@
                                                 <span data-value="5" class="glyphicon glyphicon-star-empty"></span>
                                             </span>
                                         </div>
-                                        <p>El resultado se vuelve a comentar para determinar si lo que han definido los tecnólogos encaja con lo esperado. <br/>De esta forma, es posible la cooperación entre profesionales y usuarios para determinar que se va por el buen camino.</p>
+                                        <p><?php echo _("The result is commented again to determine if what the technologists have defined fits in with what was expected."); ?></p>
                                         <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                     </div>
                                     <div class="person-text rel text-light">
                                         <img src="images/img-carrousel-c2.png" alt="" class="person img-circle-less" />
-                                        <a title="" href="#">Comentar la simulación</a>
-                                        <span>Web CAMAssistant</span>
+                                        <a title="" href="#"><?php echo _("Comment the simulation"); ?></a>
+                                        <span><?php echo _("Web CAMAssistant"); ?></span>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 hidden-xs">
                                     <div class="block-text rel zmin">
-                                        <a title="" href="#">Construir la solución</a>
-                                        <div class="mark">Step:
+                                        <a title="" href="#"><?php echo _("Build the solution"); ?></a>
+                                        <div class="mark"><?php echo _("Step:"); ?>
                                             <span class="rating-input">
                                                 <span data-value="0" class="glyphicon glyphicon-star"></span>
                                                 <span data-value="1" class="glyphicon glyphicon-star"></span>
@@ -513,20 +513,19 @@
                                                 <span data-value="5" class="glyphicon glyphicon-star-empty"></span>
                                             </span>
                                         </div>
-                                        <p>Una vez que definido lo que se quiere construir, se usa tecnología de bajo coste para crear prototipos que puedan ser probados por voluntarios.
-                                            A diferencia de otros enfoques, hasta este punto de la solución no se han invertido recursos físicos. </p>
+                                        <p><?php echo _("Once you define what you want to build, you use low cost technology to create prototypes that can be tested by volunteers. Unlike other approaches, up to this point of the solution physical resources have not been reversed.");?> </p>
                                         <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                     </div>
                                     <div class="person-text rel text-light">
                                         <img src="images/img-carrousel-c5.png" alt="" class="person img-circle-less" />
-                                        <a title="" href="#">Prototipado físico</a>
-                                        <span>HAR, SmartWatch</span>
+                                        <a title="" href="#"><?php echo _("Physical prototyping"); ?></a>
+                                        <span><?php echo _("HAR, SmartWatch"); ?></span>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 hidden-sm hidden-xs">
                                     <div class="block-text rel zmin">
-                                        <a title="" href="#">Pruebas en pacientes</a>
-                                        <div class="mark">Start:
+                                        <a title="" href="#"><?php echo _("Patient testing"); ?></a>
+                                        <div class="mark"><?php echo _("Step:"); ?>
                                             <span class="rating-input">
                                                 <span data-value="0" class="glyphicon glyphicon-star"></span>
                                                 <span data-value="1" class="glyphicon glyphicon-star"></span>
@@ -536,13 +535,13 @@
                                                 <span data-value="5" class="glyphicon glyphicon-star"></span>
                                             </span>
                                         </div>
-                                        <p>Es posible probar los prototipos en pacientes con las limitaciones analizadas.<br/>Si se encuentran errores o incosistencia, tras el bajo de coste de fabricación, aún es posible volver atras y repetir las fases de estudio.</p>
+                                        <p><?php echo _("It is possible to test the prototypes in patients with the limitations analyzed.") ;?></p>
                                         <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                     </div>
                                     <div class="person-text rel text-light">
                                         <img src="images/img-ned-horton.jpg" alt="" class="person img-circle-less" alt="Image By Ned horton" title="Image By Ned Horton"/>
-                                        <a title="" href="#">Test en usuarios finales</a>
-                                        <span>Análisis médico o profesional</span>
+                                        <a title="" href="#"><?php echo _("Test on end users");?></a>
+                                        <span><?php echo _("Medical or professional analysis"); ?></span>
                                     </div>
                                 </div>
                             </div>
@@ -570,7 +569,7 @@
                 <div class="col-sm-12 col-md-12">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <h4 class="h-bold">Finished Developments</h4>
+                            <h4 class="h-bold"><?php echo _("Finished Developments"); ?></h4>
                         </div>
                     </div>
                 </div>
@@ -583,11 +582,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">A fall detector</h4>
+                            <h4 class="h-bold"><?php echo _("A fall detector");?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                It was developed by students and the technology that was used served to facilitate the initial prototype of the solution. All the documentation that reports the required elements is available, so a similar product can be created.
+                                <?php echo _("It was developed by students and the technology that was used served to facilitate the initial prototype of the solution. All the documentation that reports the required elements is available, so a similar product can be created.");?>
                             </p>
                         </div>
                         <div class="box text-center">
@@ -600,11 +599,11 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Prototypes of situation recognizers</h4>
+                            <h4 class="h-bold"><?php echo _("Prototypes of situation recognizers");?></h4>
                         </div>
                         <div class="box text-justify">
                             <p>
-                                A basic gesture recognizer (its evolution is in process to be patented) and a fall detector in big facilities. Developed using simulations and produce with open hardware. It won the award for <a href="http://www.paams.net/" target="_blank" data-i18n="home.content_7_2_link_1">IBM en la conferencia PAAMS 2016</a>.
+                                <?php echo _("A basic gesture recognizer (its evolution is in process to be patented) and a fall detector in big facilities. Developed using simulations and produce with open hardware. It won the award for");?> <a href="http://www.paams.net/" target="_blank" data-i18n="home.content_7_2_link_1"><?php echo _("IBM en la conferencia PAAMS 2016");?></a>.
                             </p>
                         </div>
                         <div class="box text-center">
@@ -623,7 +622,7 @@
                 <div class="col-sm-12 col-md-12">
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
-                            <h4 class="h-bold">Some developments in progress</h4>
+                            <h4 class="h-bold"><?php echo _("Some developments in progress"); ?></h4>
                         </div>
                     </div>
                 </div>
@@ -636,11 +635,10 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Crowd tracker</h4>
+                            <h4 class="h-bold"><?php echo _("Crowd tracker"); ?></h4>
                         </div>
                         <div class="box text-justify">
-                            <p>
-                                With the information of the traffic of people in a specific point of a building, we try to know the amount of people that there are in the rest of the building without invading their privacy.
+                            <p><?php echo _("With the information of the traffic of people in a specific point of a building, we try to know the amount of people that there are in the rest of the building without invading their privacy."); ?>
                             </p>
                         </div>
                         <div class="box text-center">
@@ -652,11 +650,10 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">Monitor of repeated or forgotten activities</h4>
+                            <h4 class="h-bold"><?php echo _("Monitor of repeated or forgotten activities"); ?></h4>
                         </div>
                         <div class="box text-justify">
-                            <p>
-                                Based on technology to recognize activities, we want to develop a system that learn the costumes of the patient and that identifies when an activity has been done, has not been done or is half done.
+                            <p><?php echo _("Based on technology to recognize activities, we want to develop a system that learn the costumes of the patient and that identifies when an activity has been done, has not been done or is half done."); ?>
                             </p>
                         </div>
                         <div class="box text-center">
@@ -679,11 +676,10 @@
                     <div class="wow fadeInUp" data-wow-delay="0.2s">
                         <div class="box text-center">
                             <i class="fa fa-check fa-2x circled bg-skin"></i>
-                            <h4 class="h-bold">TV remote control that accepts mild tremor</h4>
+                            <h4 class="h-bold"><?php echo _("TV remote control that accepts mild tremor"); ?></h4>
                         </div>
                         <div class="box text-justify">
-                            <p>
-                                Describing how a TV remote control that accepts user's mild tremor would be.
+                            <p><?php echo _("Describing how a TV remote control that accepts user's mild tremor would be."); ?>
                             </p>
                         </div>
                         <div class="box text-center">

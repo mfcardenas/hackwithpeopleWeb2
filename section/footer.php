@@ -11,22 +11,20 @@
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
                         <h5><a href="http://grasia.fdi.ucm.es/colosaal" target="_blank" title="ColosAAL">ColosAAL</a></h5>
-                        <p>
-                            Financed by the Ministry of Economy and Competitiveness of the Government of Spain, TIN2014-57028-R FOTRRIS.
+                        <p><?php echo _("Project financed by the Ministry of Economy and Competitiveness of the Government of Spain"); ?>, TIN2014-57028-R FOTRRIS.
                         </p>
                     </div>
                 </div>
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
                         <h5><a href="https://www.gsi.dit.upm.es/mosi/" target="_blank">MOSI-AGIL</a></h5>
-                        <p>MOSI-AGIL-CM (S2013/ICE-3019) financiado por el Gobierno de la Comunidad de Madrid
-                            y fondos estructurales FEDER.</p>
+                        <p><?php echo _("The MOSI-AGIL-CM program (S2013 / ICE-3019) is financed by the Government of the Community of Madrid and the Structural Funds FEDER."); ?></p>
                     </div>
                 </div>
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
                         <h5><a href="http://fotrris-h2020.eu/" target="_blank">FoTRRIS</a></h5>
-                        <p>European Research Project of the H2020 Programme, on Responsible Research and Innovation. More information at <a href="http://fotrris-h2020.eu/" target="_blank">http://fotrris-h2020.eu/</a> <a href="http://grasia.fdi.ucm.es/newmain/language/en/" target="_blank">GRASIA</a>&nbsp;<a rel="nofollow" href="http://www.ucm.es" target="_blank">Facultad de Inform&aacute;tica</a>
+                        <p><?php echo _("European Research Project of the H2020 Programme, on Responsible Research and Innovation."); ?> <?php echo _("More information at"); ?> <a href="http://fotrris-h2020.eu/" target="_blank">http://fotrris-h2020.eu/</a> <a href="http://grasia.fdi.ucm.es/newmain/language/en/" target="_blank">GRASIA</a>&nbsp;<a rel="nofollow" href="http://www.ucm.es" target="_blank"><?php echo _("Faculty of Computer Science"); ?></a>
                         </p>
                     </div>
                 </div>
@@ -34,7 +32,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
-                        <h5>Facultad de Informática</h5>
+                        <h5><?php echo _("Faculty of Computer Science"); ?></h5>
                         <p>
                         </p>
                         <ul>
@@ -71,14 +69,14 @@
             <div class="col-sm-6 col-md-4">
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
-                        <h5>Our location</h5>
+                        <h5><?php echo _("Our location"); ?></h5>
                         <p>C/ Prof. Jos&eacute; Garc&iacute;a Santesmases, 9 28040 Madrid</p>
 
                     </div>
                 </div>
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
-                        <h5>Follow us</h5>
+                        <h5><?php echo _("Follow us"); ?></h5>
                         <ul class="company-social">
                             <li class="social-facebook"><a href="https://es-es.facebook.com/UniComplutense" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-twitter"><a href="https://twitter.com/unicomplutense?lang=es" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -104,7 +102,7 @@
                 <div class="col-sm-6 col-md-6 col-lg-6">
                     <div class="wow fadeInLeft" data-wow-delay="0.1s">
                         <div class="text-left">
-                            <p>&copy;Copyright - All the content of this page is licensed under the CC By-SA
+                            <p>&copy;Copyright - <?php echo _("All the content of this page is licensed under the CC By-SA");?>
                                 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/es/" target="_blank">
                                     <img src="http://i.creativecommons.org/l/by-sa/3.0/es/80x15.png" alt="(cc) BY-SA icon" title="(cc) BY-SA icon" style="border-width: 0; text-align: inherit; vertical-align: middle"/>
                                 </a>
@@ -116,7 +114,7 @@
                     <div class="wow fadeInRight" data-wow-delay="0.1s">
                         <div class="text-right">
                             <div class="credits">
-                                <a style="" rel="nofollow" href="http://www.ucm.es" target="_blank">Universidad Complutense de Madrid</a>
+                                <a style="" rel="nofollow" href="http://www.ucm.es" target="_blank"><?php echo _("Complutense University of Madrid"); ?></a>
                             </div>
                         </div>
                     </div>

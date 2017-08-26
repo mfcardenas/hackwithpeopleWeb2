@@ -46,17 +46,8 @@ msgstr "Every person is unique. Adjusting assistive technology to every particul
 msgid "The trials are slow because reliability must be guaranteed."
 msgstr "The trials are slow because reliability must be guaranteed. In addition, a large part of what is required imply a mechanical assistance, fon instance, when someone falls down, to help this person stand up."
 
-msgid "The trials are slow because reliability must be guaranteed."
-msgstr "Los ensayos son lentos porque hay que garantizar fiabilidad. Además, gran parte de lo que se necesita implica asistencia mecánica, por ejemplo, cuando alguien se cae, para que le ayude a levantarse."
-
-msgid "Scientific advancements have a slow advance when it comes to neurodegenerative diseases,"
-msgstr "Scientific advancements have a slow advance when it comes to neurodegenerative diseases, especially because of the erratic funding in basic research. Assistive technologies are not a solution, but they can improve the quality of life of those who suffer from an illness and to better integrate people with some kind of disability."
-
 msgid "A product starts as an idea that is prototyped in a laboratory."
 msgstr "A product starts as an idea that is prototyped in a laboratory. Then, we usually work with some volunteers or people who receive some kind of reward for their effort. With this experience, we learn and we redesign the product. Afterwards, the industrial production is planned and executed. It only remains to deliver the product to the end user. During all this process, there is a huge expense of material and human resources. Not everybody can afford it. "
 
 msgid "Many projects fail because they do not propose an interesting solution for those who will use it."
 msgstr "Many projects fail because they do not propose an interesting solution for those who will use it. To avoid this frustration, volunteers are being included in the creation of the products. This decision raises the price, because we require facilities to test the product and compensations for the volunteers for their effort. Moreover, it poses new questions. Let's imagine that we create a fall detector: Do we ask the volunteer to fall down? Will the product detect the fall down a staircase?."
-
-msgid ""
-msgstr ""

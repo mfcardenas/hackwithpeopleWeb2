@@ -100,7 +100,7 @@ msgstr "Cada persona es un mundo. Ajustar la tecnología asistiva a su caso part
 msgid "The trials are slow because reliability must be guaranteed."
 msgstr "Los ensayos son lentos porque hay que garantizar fiabilidad. Además, gran parte de lo que se necesita implica asistencia mecánica, por ejemplo, cuando alguien se cae, para que le ayude a levantarse."
 
-msgid "These technologies are short-term assistances, but they are not the perfect solution."
+msgid "These technologies are short-term assistances, but they are not the perfect solution"
 msgstr "Estas tecnologías ayudan en el corto plazo, pero no son la solución perfecta"
 
 msgid "A product starts as an idea that is prototyped in a laboratory."
@@ -142,7 +142,7 @@ msgstr "Una tecnología libre y abierta que todos pueden usar. Si tu fuerte no e
 msgid "If you have technological skills, you can contribute modelling or developing solutions."
 msgstr "Si tienes conocimientos tecnológicos, puedes contribuir modelando o desarrollando soluciones."
 
-msgid "Helping with comments about the simulations that we have, giving your opinion about the solutions and problems that we have collected. We use CAMAssistant tool to do that. The cases of use can be seen and directly provide comments. Profile: professional/interested person. "
+msgid "Helping with comments about the simulations that we have, giving your opinion about the solutions and problems that we have collected. We use CAMAssistant tool to do that. The cases of use can be seen and directly provide comments. Profile: professional/interested person."
 msgstr "Ayudar con comentarios sobre las simulaciones que tenemos, opinando sobre las soluciones y los problemas que hemos recogido. Se usa la herramienta CAMAssistant para esto. Pueden visitarse los casos de uso y proveer comentarios directamente. Perfil: profesional/persona con interés."
 
 msgid "Creating 3D models with our tools. We use "
@@ -154,7 +154,7 @@ msgstr " la herramienta AIDE para esto. "
 msgid "The models will be available online, so they can be downloaded by those who are interested. New models will can also be uploaded. Profile: technological skills are required. "
 msgstr "Dispondremos online los modelos para que los interesados los descarguen y también para que se puedan subir nuevos. Perfil: requiere conocimientos técnicos."
 
-msgid "Collaborating in multidisciplinary teams while modelling. We will set up meetings to co-create solutions or analyzing problems in a collaborative way. Profile: professional/interested person. "
+msgid "Collaborating in multidisciplinary teams while modelling. We will set up meetings to co-create solutions or analyzing problems in a collaborative way. Profile: professional/interested person."
 msgstr "Colaboraren equipos multidisciplinares mientras se modela. Organizaremos reuniones para co-crear soluciones o estudiar problemas de forma colaborativa. Perfil: profesional/persona con interés."
 
 msgid "Suggesting new solutions for other people. We use"
@@ -165,3 +165,280 @@ msgstr "la herramienta AIDE para esto."
 
 msgid "to do that. We have simple examples and tutorials to begin. Profile: technological skills are required."
 msgstr " Disponemos de ejemplos simples y tutoriales con los que empezar. Perfil: requiere conocimientos técnicos."
+
+# ## CARROUSEL ###
+msgid "Modeling the problems"
+msgstr "Modelando los problemas"
+
+msgid "Step"
+msgstr "Paso:"
+
+msgid "Among professionals and specialists recreate in computer simulations the situations described by patients. The patient's behavior is modeled in an ideal scenario and then each action is altered according to the disability."
+msgstr "Entre profesionales y especialistas se recrear en simulariones de ordenador las situaciones que describen los pacientes. Se modela el comportamiento del paciente en un escenario ideal y luego cada acción se altera según la discapacidad."
+
+msgid "Open Participation"
+msgstr "Participación abierta"
+
+msgid "Professionals, caregivers, others"
+msgstr "Profesionales, cuidadores, otros"
+
+# -----------------------------------------------------------
+msgid "Comment the results"
+msgstr "Comenta los resultados"
+
+msgid "Communication is channeled through a web application that will allow different stakeholders to add comments on the simulations."
+msgstr "La comunicación se canaliza mediante una aplicación web que permitirá a los diferentes interesados, añadir comentarios sobre las simulaciones."
+
+msgid "Comment the simulation"
+msgstr "Comentar la simulación"
+
+msgid "Web CAMAssistant"
+msgstr "Web CAMAssistant"
+
+# -----------------------------------------------------------
+msgid "Define the solution"
+msgstr "Definir la solución"
+
+msgid "They save costs by creating computer prototypes. Its performance compares with that expected by professionals. The result is transferred in video form so that it is checked iteratively."
+msgstr "Se ahorran costes creando prototipos en ordenador. Su funcionamiento se compara con el esperado por los profesionales. El resultado se traslada en forma de video para que se compruebe iterativamente."
+
+msgid "Development of prototypes in the computer"
+msgstr "Desarrollo de prototipos en el ordenador"
+
+msgid "IA, Sensors, Interfaces"
+msgstr "IA, Sensores, Interfaces"
+
+# -----------------------------------------------------------
+msgid "The result is commented again to determine if what the technologists have defined fits in with what was expected."
+msgstr "El resultado se vuelve a comentar para determinar si lo que han definido los tecnólogos encaja con lo esperado."
+
+msgid "In this way, it is possible the cooperation between professionals and users to determine that it is on the right track."
+msgstr "De esta forma, es posible la cooperación entre profesionales y usuarios para determinar que se va por el buen camino."
+
+# -----------------------------------------------------------
+msgid "Build the solution"
+msgstr "Construir la solución"
+
+msgid "Once you define what you want to build, you use low cost technology to create prototypes that can be tested by volunteers. Unlike other approaches, up to this point of the solution physical resources have not been reversed."
+msgstr "Una vez que definido lo que se quiere construir, se usa tecnología de bajo coste para crear prototipos que puedan ser probados por voluntarios. A diferencia de otros enfoques, hasta este punto de la solución no se han invertido recursos físicos."
+
+msgid "Physical prototyping"
+msgstr "Prototipado físico"
+
+msgid "HAR, SmartWatch"
+msgstr "HAR, SmartWatch"
+
+# -----------------------------------------------------------
+msgid "Patient testing"
+msgstr "Pruebas en pacientes"
+
+msgid "It is possible to test the prototypes in patients with the limitations analyzed."
+msgstr "Es posible probar los prototipos en pacientes con las limitaciones analizadas."
+
+msgid "If errors or inconsistencies are found, after the manufacturing cost low, it is still possible to go back and repeat the study phases."
+msgstr "Si se encuentran errores o incosistencia, tras el bajo de coste de fabricación, aún es posible volver atras y repetir las fases de estudio."
+
+msgid "Test on end users"
+msgstr "Test en usuarios finales"
+
+msgid "Medical or professional analysis"
+msgstr "Análisis médico o profesional"
+
+# -------------------------------------------------------------
+msgid "Finished Developments"
+msgstr "Desarrollos terminados"
+
+msgid "A fall detector"
+msgstr "Un detector de caídas"
+
+msgid "It was developed by students and the technology that was used served to facilitate the initial prototype of the solution. All the documentation that reports the required elements is available, so a similar product can be created."
+msgstr "Fue desarrollado por estudiantes y la tecnología utilizada sirvió para facilitar el prototipado inicial de la solución. Está disponible toda la documentación que informa de los elementos necesarios para el desarrollo y así poder construir otro similar."
+
+msgid "Prototypes of situation recognizers"
+msgstr "Prototipos de reconocedores de situaciones"
+
+msgid "A basic gesture recognizer (its evolution is in process to be patented) and a fall detector in big facilities. Developed using simulations and produce with open hardware. It won the award for IBM en la conferencia PAAMS 2016."
+msgstr "Un reconocedor de gestos básico (su evolución está en proceso de patente) y un detector de caídas en grandes instalaciones. Desarrollado usando las simulaciones y producido con hardware abierto. Obtuvo el premio a IBM en la conferencia PAAMS 2016."
+
+msgid "Some developments in progress"
+msgstr "Algunos desarrollos en progreso"
+
+msgid "Crowd tracker"
+msgstr "Seguimiento de multitudes"
+
+msgid "With the information of the traffic of people in a specific point of a building, we try to know the amount of people that there are in the rest of the building without invading their privacy."
+msgstr "Se trata de, usando información de tráfico de gente en un punto concreto de un edificio, determinar cuánta gente hay en otras partes del mismo sin necesidad de invadir la privacidad."
+
+msgid "Monitor of repeated or forgotten activities"
+msgstr "Monitor de actividades repetidas u olvidadas"
+
+msgid "Based on technology to recognize activities, we want to develop a system that learn the costumes of the patient and that identifies when an activity has been done, has not been done or is half done."
+msgstr "Basado en tecnología para reconocimiento de actividades, se quiere desarrollar un sistema que aprenda las costumbres del paciente y que identifique cuándo una actividad ya ha sido realizada, o no ha sido realizada, o cuando ha sido dejada a medias."
+
+msgid "TV remote control that accepts mild tremor"
+msgstr "Mando de televisión tolerante a temblores leves"
+
+msgid "Describing how a TV remote control that accepts user's mild tremor would be."
+msgstr "Se trata de definir cómo sería el control de un mándo de televisión táctil que fuera tolerante a temblores leves del usuario."
+
+msgid "Project financed by the Ministry of Economy and Competitiveness of the Government of Spain"
+msgstr "Proyecto financiado por el Ministerio de Economía y Competitividad del Gobierno de España"
+
+msgid "The MOSI-AGIL-CM program (S2013 / ICE-3019) is financed by the Government of the Community of Madrid and the Structural Funds FEDER."
+msgstr "El programa MOSI-AGIL-CM (S2013/ICE-3019) es financiado por el Gobierno de la Comunidad de Madrid y fondos estructurales FEDER."
+
+msgid "European Research Project of the H2020 Programme, on Responsible Research and Innovation."
+msgstr "Proyecto Europeo de Investigación del Programa H2020 sobre Investigación Responsable e Innovación."
+
+msgid "More information at"
+msgstr "Más información en"
+
+msgid "Faculty of Computer Science"
+msgstr "Facultad de Informática"
+
+msgid "All the content of this page is licensed under the CC By-SA"
+msgstr "Todo el contenido de esta página está bajo la licencia de CC By-SA"
+
+msgid "Our location"
+msgstr "Nuestra ubicación"
+
+msgid "Follow us"
+msgstr "Síguenos es"
+
+msgid "Complutense University of Madrid"
+msgstr "Universidad Complutense de Madrid"
+
+msgid "What do we propose?"
+msgstr "¿Cuál es nuestro propósito?"
+
+msgid "Who are we?"
+msgstr "¿Quiénes somos?"
+
+msgid "Hack4People is an initiative to combine the efforts of experts in the study and discovery of assistive technologies to improve the quality of life of the population. The aim is giving back autonomy to those who have some illness that has change their lives, as well as looking for ways to achieve a more inclusive society where having a disability does not imply a disadvantage. Above all, we want to tackle the problem of the aging of population giving assistance at home."
+msgstr "Hack4People es una iniciativa para combinar esfuerzos de expertos en el estudio y descubrimiento de tecnologías asistivas para mejorar la calidad de vida de la población. Se trata de buscar devolver autonomía a los que tienen alguna enfermedad que ha cambiado su vida. Se trata también de buscar formas de lograr una sociedad inclusiva, en la que tener una discapacidad no sea una desventaja. Sobre todo, se trata de hacer frente al problema del envejecimiento de la población dando asistencia en el hogar."
+
+msgid "We want to achieve those goals searching for the collaboration between experts in technology and experts in people. With both of them, and using computer tools, we are creating simulations of peoples' lives and of how can we help them. This idea has been promoted in the framework of the ColosAAL TIN2014-57028-R project, funded by the"
+msgstr "Queremos lograr esto buscando la colaboración de expertos en tecnología y expertos en personas. Entre ambos, y usando herramientas informáticas, estamos construyendo simulaciones de lo que viven las personas y de cómo podemos ayudarlas. Esta idea ha sido promovida en el ámbito del proyecto ColosAAL TIN2014-57028-R del"
+
+msgid "Ministry of Economy and Competitiveness"
+msgstr "Ministerio de Economía y Competitividad"
+
+msgid "Advantages of simulation"
+msgstr "Ventajas de la Simulación"
+
+msgid "Collaborators and experts participating do not need to know the newest computer simulation techniques. We place at your disposal a combination of technological tools that, thanks to the high-standard of the modelling language, can be used to ceate the different simulations that could be considered as relevant for the diverse case studies."
+msgstr "No es necesario que los colaboradores o expertos participantes conozcan las últimas técnicas de simulación por ordenador. Se pone a su disposición todo un conjunto de herramientas tecnológicas que, gracias al lenguaje modelado de alto nivel, podrá utilizar construir las diferentes simulaciones que se consideren pertinentes en los casos de estudios propuestos."
+
+msgid "We can simulate different practical cases without needing to resorting to real patients. With all the analyzed data during work meetings, we can design mechanisms that can improve the daily life of the patients."
+msgstr "Es posible simular diferentes casos prácticos sin la necesidad de acudir a pacientes reales. Con todo lo analizado en estas sesiones de trabajo, será posible diseñar mecanismos que permitan mejorar el día a día de los pacientes."
+
+msgid "Current Projects"
+msgstr "Proyectos Actuales"
+
+msgid "The simulations of patients with limitations try to show the effects of the disabilities and its connections with the user's cognitive device. Simulations also depict the effects of the disabilities that are studied in its lowest level to deduce later its impact on the daily activities of the patient."
+msgstr "Las simulaciones de pacientes con limitaciones buscan mostrar los efectos de las discapacidades y su relación con el aparato cognitivo del usuario, reflejando además los efectos de las enfermedades estudiadas a más bajo nivel para deducir luego su impacto en las actividades diarias del paciente."
+
+msgid "The current projects include diseases like Alzheimer's Disease, Parkinsonism, blindness and paralysis. For all these initiatives, relying on experts in Social and Health Sciences is essential. In this way, we can guarantee the correct execution of the case studies."
+msgstr "Los proyectos actuales abarcan enfermedades como Alzhéimer, Parkinson, Ceguera y Parálisis. Para todas estas iniciativas es indispensable contar con expertos en áreas de las ciencias Sociales y las ciencias de la Salud para garantizar la correcta ejecución de los casos de estudios propuestos."
+
+msgid "How can you participate?"
+msgstr "Cómo participar"
+
+msgid "We will create simulations of practical cases about the symptoms of illnesses. Each practical case will show the daily situation that the patient lives with the chosen symptom, for example: Parkinson patient that is going to eat. This simulation is at everyone's disposal, so they can participate, not only checking the own simulation, but also analyzing the situation of this kind of patients when they do their daily activities. You can comment every simulation and, if you are interested, you can participate in the work meetings where these simulations will be created. Your ideas will always be useful to contribute to the improvement of the simulation and to its application into a specific field of study."
+msgstr "Se iran construyento simulaciones de casos prácticos sobre síntomas de la enfermedad. Cada caso práctico mostrará la situación cotidiana que vive el paciente con el síntoma escogido, por ejemplo: paciente con parkinson que procede a tomar sus alimentos. Esta simulación se pone a disposición de todos para que puedan participar no solo en la correcciones de la propia simulación sino en el análisis de la situación de este tipo de pacientes cuando desarrollan sus actividades diarias. Sobre cada simulación podrás realizar comentarios y, si lo prefieres, podrás participar en las sesiones de trabajo que las crean. Tus ideas siempre serán útiles para contribuir a la mejora no solo de la simulación sino a su aplicación sobre un campo de estudio concreto."
+
+msgid "Tell us about your research"
+msgstr "Cuéntanos tu investigación"
+
+msgid "From Hack4People we have suggested several specific working lines. However, we want to know about your research proposals. Tell us about your work and in one or more work meetings we will be able to analyze the possibility of working together to obtain positive results for all."
+msgstr "Desde Hack4People se han propuesto varias línea de trabajo concretas pero eso no quiere decir que no querramos oir tus propuestas de investigación. Cuéntanos tu trabajo y en una o más sesiones de trabajo podemos analizar la posibilidad de trabajar conjuntamente y obtener así resultados favorables para todos."
+
+msgid "Take part in multidisciplinary projects"
+msgstr "Participa en proyectos multidisciplinario"
+
+msgid "Allow other areas of science to join in your research. You can improve your work with the aid of other professionals or working groups that could give an extra to your project,and vice versa."
+msgstr "Permite que otras áreas de la ciencia participen en tu investigación. Enriquece tu trabajo con el apoyo de otros profesionales o grupos de trabajo que a lo mejor, por su linea de investigación, podrían dar ese plus a tu proyecto y viceberza."
+
+msgid "Let's design efficient solutions"
+msgstr "Diseñemos soluciones eficientes"
+
+msgid "The simulations of realistic behaviors allow for generating ideas and creating solutions for many patients. It is not necessary to experiment directly with them. You can participate in the similation of the patients' behavior and in the analyze of the context of the activity. Then, we all together will try to improve patients' lifestyle in an inexpensive and efficient way."
+msgstr "La simulaciones de comportamientos realistas permiten generar ideas y construir soluciones para muchos pacientes. No es necesario experimentar con ellos directamente, participa en la simulación de su comportamiento, analiza el contexto de la actividad del paciente y juntos intentemos mejorar su estilo de vida de forma barata y eficiente."
+
+# -----------------PRACTICAL CASE ---------------------------------------------------------------------------
+msgid "Practical Cases of Alzheimer Patients"
+msgstr "Casos Prácticos de pacientes de Alzheimer"
+
+msgid "Difficulty to do simple tasks"
+msgstr "Dificultad para hacer tareas simples"
+
+msgid "The daily activities can be affected by the sympthoms of the illness. In this case we study the example of a patient who suffer from difficulty in falling or staying asleep."
+msgstr "Actividades cotidianas pueden verse afectadas por los síntomas de la enfermedad. En este caso se estudia un caso práctico de un paciente con dificultades para dormir."
+
+msgid "Desorientation in time and space"
+msgstr "Desorientación en tiempo y espacio"
+
+msgid "In this practical case we show a simulation of a patient with desorientation. What is defined in the simulation is the possibility of detecting that the patient has been more than 10 minutes outside a room between 0:00 and 8:00 am. When it happens, we indicate him/her the way to the bedroom by turning on the lights of the corredor and the bedroom."
+msgstr "En este caso práctico se propone una simulación que muestra un paciente con desorientación. Lo que se define en la simulación es la posibilidad de detectar que el paciente está más de 10 minutos fuera de la habitación entre las 0:00 y las 8:00 y se le indica que vuelva a la cama encendiendo las luces de la habitación y los pasillos."
+
+msgid "Placing objects out of its place"
+msgstr "Colocación de objetos fuera de lugar"
+
+msgid "Placing objects out of its place is other case study that can be simulated. The loss of keys, the loss of TV remote control, the loss of medication, etc."
+msgstr "La colocación de objetos fuera de lugar es otro caso de estudio que se puede simular. Pérdida de llaves, perdida del mando de la televisión, pérdida del medicamento, etc."
+
+msgid "COMENT ONLINE"
+msgstr "COMENTA ONLINE"
+
+# ----------------------------------------------------------------------
+msgid "Practical Cases of Parkinson Patients"
+msgstr "Casos Prácticos de pacientes con Parkinson"
+
+msgid "Patient with tremor in the hands"
+msgstr "Paciente con temblor en manos"
+
+msgid "We simulate a practical case with patients that are doing daily activities such as watching TV. The aim is studying the behavior of the patient while he/she is assisted with other common electrical appliances."
+msgstr "Se simula un caso práctico de la enfermedad con pacientes realizando actividades cotidianas como ver televisión. El objetivo es poder estudiar el comportamiento del individuo realizando la actividad con la ayuda de otros dispositivos electrónicos comunes."
+
+msgid "The activity of eating and drinking"
+msgstr "Actividad de comer y beber"
+
+msgid "It is possible to simulate the everyday life of Parkinson patients in a realistic way. We can describe the effect of the illness in a part of the body: hand, neck... Activities like drinking, eating, taking a shower. can be can be thoroughly studied thanks to a realistic simulation that allows generating solutions that improve the life of the patient."
+msgstr "Es posible simular de forma realista el día a dia de pacientes con Parkinson, describiendo la afección de la enfermedad en una parte concreta del cuerpo: mano, cuello, etc. Actividades como beber, comer, ducharse se pueden estudiar más detenidamente gracias a una simulación lo suficientemente realista para generar soluciones que mejoren la vida del paciente."
+
+msgid "Taking a shower"
+msgstr "Ducharse"
+
+msgid "The sympthoms of this illness complicate the daily activities of the patients. An activity as usual as taking a shower can be practically impossible without other person's help. In this case we simulate the user doing this activity."
+msgstr "Los síntomas de esta enfermedad entorpecen las actividades cotidianas de los pacientes. Una actividad tan habitual como ducharse puede ser practicamente imposible de realizar sin la ayuda de terceros. En este caso se simula al usuario en dicha actividad."
+
+# ------------------------------------------------------------------------
+msgid "Practical Cases of Crowds in Open Areas"
+msgstr "Casos Prácticos de multitudes en espacios abiertos"
+
+msgid "Students' entrance in the Faculty"
+msgstr "Entrada de estudiantes en la facultad de Informática"
+
+msgid "Simulating the behavior of people in open areas allows analysing factors that could affect those users that have limitations. In this simple example we only simulate the students' entrance in the faculty using the principal entrance. We could extend the practical case to users with certain limitations."
+msgstr "Simular el comportamiento de las personas en espacios abiertos permite analizar factores que podrían afectar a usuarios con limitaciones. En este sencillo ejemplo solo se simula la entrada de estudiantes a la facultad por la entrada principal. Se podría ampliar el caso práctico para usuarios con ciertas limitaciónes."
+
+msgid "Flow of crowds in big areas"
+msgstr "Flujo de multitudes dentro de grandes superficies"
+
+msgid "We simulate the behavior of crowds in big areas, such as the Faculty of Computer Science, to observe the flow of people in the different spaces of the facility."
+msgstr "Se simula el comportamiento de multitudes dentro de grandes superficies como es el caso de la Facultad de Informática, para observar el flujo de personas en las diferentes zonas del recinto."
+
+msgid "Modelling tool for simulations"
+msgstr "Herramienta de modelado para las Simulaciones"
+
+msgid "We introduce a brief example of the use of the modelling tool to generate simulations. This version is conceive to be developed. It is possible to integrate it with Android components to increase its functionalities. Download the presentation and send your suggestions."
+msgstr "Presentamos un breve ejemplo del uso de la herramienta de modelado para generar simulaciones. Esta versión es para desarrollo y es posible integrarla con componentes de Android para ampliar funcionalidades. Descarga la presentación y envia tus sugerencias."
+
+msgid "* At the moment, online comments are only supported in the Mozilla Firefox browser."
+msgstr "* De momento, los comentarios online sólo se soportan en el navegador Firefox de Mozilla."
+
+msgid "Crowds"
+msgstr "Multitudes"
+
+msgid "All"
+msgstr "Todos"

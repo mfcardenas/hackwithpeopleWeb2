@@ -37,22 +37,21 @@
 				<div class="col-sm-6 col-md-6">
 					<div class="wow fadeInUp" data-wow-delay="0.2s">
 						<div class="box text-left">
-							<h4 class="h-bold">Who are we?</h4>
+							<h4 class="h-bold"><?php echo _("Who are we?");?></h4>
 						</div>
 						<div class="box text-justify">
 							<p>
-								Hack4People is an initiative to combine the efforts of experts in the study and discovery of assistive technologies to improve the quality of life of the population. The aim is giving back autonomy to those who have some illness that has change their lives, as well as looking for ways to achieve a more inclusive society where having a disability does not imply a disadvantage. Above all, we want to tackle the problem of the aging of population giving assistance at home.<br/>
-								We want to achieve those goals searching for the collaboration between experts in technology and experts in people. With both of them, and using computer tools, we are creating simulations of peoples' lives and of how can we help them.<br/>
-								This idea has been promoted in the framework of the ColosAAL TIN2014-57028-R project, funded by the <a href="http://www.mineco.gob.es" target="_blank"><?php echo _("Ministerio de Economía y Competitividad"); ?></a>.
+								<?php echo _("Hack4People is an initiative to combine the efforts of experts in the study and discovery of assistive technologies to improve the quality of life of the population. The aim is giving back autonomy to those who have some illness that has change their lives, as well as looking for ways to achieve a more inclusive society where having a disability does not imply a disadvantage. Above all, we want to tackle the problem of the aging of population giving assistance at home."); ?><br/>
+								<?php echo _("We want to achieve those goals searching for the collaboration between experts in technology and experts in people. With both of them, and using computer tools, we are creating simulations of peoples' lives and of how can we help them. This idea has been promoted in the framework of the ColosAAL TIN2014-57028-R project, funded by the"); ?> <a href="http://www.mineco.gob.es" target="_blank"><?php echo _("Ministry of Economy and Competitiveness"); ?></a>.
 							</p>
 						</div>
 						<div class="box text-left">
-							<h4 class="h-bold">Advantages of simulation</h4>
+							<h4 class="h-bold"><?php echo _("Advantages of simulation"); ?></h4>
 						</div>
 						<div class="box text-justify">
 							<p>
-								Collaborators and experts participating do not need to know the newest computer simulation techniques. We place at your disposal a combination of technological tools that, thanks to the high-standard of the modelling language, can be used to ceate the different simulations that could be considered as relevant for the diverse case studies.<br/>
-								We can simulate different practical cases without needing to resorting to real patients. With all the analyzed data during work meetings, we can design mechanisms that can improve the daily life of the patients.
+								<?php echo _("Collaborators and experts participating do not need to know the newest computer simulation techniques. We place at your disposal a combination of technological tools that, thanks to the high-standard of the modelling language, can be used to ceate the different simulations that could be considered as relevant for the diverse case studies."); ?><br/>
+								<?php echo _("We can simulate different practical cases without needing to resorting to real patients. With all the analyzed data during work meetings, we can design mechanisms that can improve the daily life of the patients."); ?>
 							</p>
 						</div>
 					</div>
@@ -60,7 +59,7 @@
 				<div class="col-sm-6 col-md-6">
 					<div class="wow fadeInUp" data-wow-delay="0.2s">
 						<div class="box text-left">
-							<h4 class="h-bold">Current Projects</h4>
+							<h4 class="h-bold"><?php echo _("Current Projects"); ?></h4>
 						</div>
 						<div class="box text-center">
 							<div>
@@ -79,8 +78,8 @@
 						<div class="box text-justify">
 							<p></p>
 							<p>
-								The simulations of patients with limitations try to show the effects of the disabilities and its connections with the user's cognitive device. Simulations also depict the effects of the disabilities that are studied in its lowest level to deduce later its impact on the daily activities of the patient.<br/>
-								The current projects include diseases like Alzheimer's Disease, Parkinsonism, blindness and paralysis. For all these initiatives, relying on experts in Social and Health Sciences is essential. In this way, we can guarantee the correct execution of the case studies..
+								<?php echo _("The simulations of patients with limitations try to show the effects of the disabilities and its connections with the user's cognitive device. Simulations also depict the effects of the disabilities that are studied in its lowest level to deduce later its impact on the daily activities of the patient."); ?><br/>
+								<?php echo _("The current projects include diseases like Alzheimer's Disease, Parkinsonism, blindness and paralysis. For all these initiatives, relying on experts in Social and Health Sciences is essential. In this way, we can guarantee the correct execution of the case studies."); ?>
 							</p>
 						</div>
 					</div>
@@ -96,11 +95,11 @@
 				<div class="col-sm-6 col-md-6">
 					<div class="wow fadeInUp" data-wow-delay="0.2s">
 						<div class="box text-left">
-							<h4 class="h-bold">How can you participate?</h4>
+							<h4 class="h-bold"><?php echo _("How can you participate?"); ?></h4>
 						</div>
 						<div class="box text-justify">
 							<p></p>
-							<p>We will create simulations of practical cases about the symptoms of illnesses. Each practical case will show the daily situation that the patient lives with the chosen symptom, for example: Parkinson patient that is going to eat. This simulation is at everyone's disposal, so they can participate, not only checking the own simulation, but also analyzing the situation of this kind of patients when they do their daily activities. You can comment every simulation and, if you are interested, you can participate in the work meetings where these simulations will be created. Your ideas will always be useful to contribute to the improvement of the simulation and to its application into a specific field of study.
+							<p><?php echo _("We will create simulations of practical cases about the symptoms of illnesses. Each practical case will show the daily situation that the patient lives with the chosen symptom, for example: Parkinson patient that is going to eat. This simulation is at everyone's disposal, so they can participate, not only checking the own simulation, but also analyzing the situation of this kind of patients when they do their daily activities. You can comment every simulation and, if you are interested, you can participate in the work meetings where these simulations will be created. Your ideas will always be useful to contribute to the improvement of the simulation and to its application into a specific field of study."); ?>
 							</p>
 						</div>
 					</div>
@@ -127,9 +126,9 @@
 					<div class="wow fadeInUp" data-wow-delay="0.2s">
 						<div class="box text-center">
 							<i class="fa fa-check fa-3x circled bg-skin"></i>
-							<h4 class="h-bold">Tell us about your research</h4>
+							<h4 class="h-bold"><?php echo _("Tell us about your research"); ?></h4>
 							<p>
-								From Hack4People we have suggested several specific working lines. However, we want to know about your research proposals. Tell us about your work and in one or more work meetings we will be able to analyze the possibility of working together to obtain positive results for all.
+								<?php echo _("From Hack4People we have suggested several specific working lines. However, we want to know about your research proposals. Tell us about your work and in one or more work meetings we will be able to analyze the possibility of working together to obtain positive results for all."); ?>
 							</p>
 						</div>
 					</div>
@@ -138,9 +137,9 @@
 					<div class="wow fadeInUp" data-wow-delay="0.2s">
 						<div class="box text-center">
 							<i class="fa fa-list-alt fa-3x circled bg-skin"></i>
-							<h4 class="h-bold">Take part in multidisciplinary projects</h4>
+							<h4 class="h-bold"><?php echo _("Take part in multidisciplinary projects"); ?></h4>
 							<p>
-								Allow other areas of science to join in your research. You can improve your work with the aid of other professionals or working groups that could give an extra to your project,and vice versa.
+								<?php echo _("Allow other areas of science to join in your research. You can improve your work with the aid of other professionals or working groups that could give an extra to your project,and vice versa.");?>
 							</p>
 						</div>
 					</div>
@@ -149,9 +148,9 @@
 					<div class="wow fadeInUp" data-wow-delay="0.2s">
 						<div class="box text-center">
 							<i class="fa fa-user-md fa-3x circled bg-skin"></i>
-							<h4 class="h-bold">Let's design efficient solutions</h4>
+							<h4 class="h-bold"><?php echo _("Let's design efficient solutions"); ?></h4>
 							<p>
-								The simulations of realistic behaviors allow for generating ideas and creating solutions for many patients. It is not necessary to experiment directly with them. You can participate in the similation of the patients' behavior and in the analyze of the context of the activity. Then, we all together will try to improve patients' lifestyle in an inexpensive and efficient way.
+								<?php echo _("The simulations of realistic behaviors allow for generating ideas and creating solutions for many patients. It is not necessary to experiment directly with them. You can participate in the similation of the patients' behavior and in the analyze of the context of the activity. Then, we all together will try to improve patients' lifestyle in an inexpensive and efficient way."); ?>
 							</p>
 						</div>
 					</div>
