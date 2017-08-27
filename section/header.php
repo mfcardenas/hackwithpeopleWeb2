@@ -24,7 +24,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="index.php">
-                    <img class="logo-title" src="images/logo.png" alt="" width="50" height="50" />
+                    <img class="logo-title" src="img/logo.png" alt="" height="50" />
                 </a>
 
             </div>
