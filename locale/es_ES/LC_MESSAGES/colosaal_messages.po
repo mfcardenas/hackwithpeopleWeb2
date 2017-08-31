@@ -61,16 +61,16 @@ msgstr "Discapacidades"
 msgid "We shall prepare ourselves with politics of active aging <br/> that could improve the lives of the families."
 msgstr "Debemos prepararnos con políticas de envejecimiento activo <br/> que puedan mejorar la vida de las familias."
 
-msgid "47.6 millions of people are suffering dementia, <br> and there are 7.7 millions of new cases each year."
+msgid "47.6 million of people are suffering dementia, <br> and there are 7.7 million new cases each year."
 msgstr "47.6 millones de personas tienen demencia <br> y hay 7.7 millones de casos nuevos cada año."
 
-msgid "The 10% of the world population is born with some <br/> kind of disability."
+msgid "10% of the world population is born with some <br/> kind of disability."
 msgstr "Un 10% de la población mundial nace con <br/> alguna discapacidad."
 
 msgid "Europe is approaching to a demographic change."
 msgstr "Europa se acerca a un cambio demográfico. Entre otras medidas, debemos prepararnos con políticas de envejecimiento activo que puedan mejorar la vida de las familias que tengan algún miembro con problemas para desarrollar su actividad diaria."
 
-msgid "On a worldwide level, 47.6 millions of people are suffering dementia,"
+msgid "On a worldwide level, 47.6 million people are suffering dementia,"
 msgstr "A nivel mundial, 47.6 millones de personas tienen demencia y hay 7.7 millones de casos nuevos cada año. El Parkinson afecta a más de 10 millones de personas en el mundo."
 
 msgid "The 10% of the world population is born with some kind of disability."

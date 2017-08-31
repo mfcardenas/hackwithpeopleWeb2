@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php echo _("Home"); ?> <?php echo _("HackWithPeople"); ?></title>
+    <title><?php echo _("Home"); ?> - <?php echo _("HackWithPeople"); ?></title>
 
     <?php
         include_once 'section/includes_header.php';
@@ -43,10 +43,10 @@
                                             <?php echo _("We shall prepare ourselves with politics of active aging <br/> that could improve the lives of the families."); ?></span></li>
                                     <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list">
 									<strong><?php echo _("Degenerative Diseases");?></strong><br />
-                                            <?php echo _("47.6 millions of people are suffering dementia, <br> and there are 7.7 millions of new cases each year.");?></span></li>
+                                            <?php echo _("47.6 million of people are suffering dementia, <br> and there are 7.7 million new cases each year.");?></span></li>
                                     <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list">
 									<strong><?php echo _("Disabilities");?></strong><br />
-                                            <?php echo _("The 10% of the world population is born with some <br/> kind of disability."); ?></span></li>
+                                            <?php echo _("10% of the world population is born with some <br/> kind of disability."); ?></span></li>
                                 </ul>
                                 <p class="text-right wow bounceIn" data-wow-delay="0.4s">
                                     <!--						<a href="#" class="btn btn-skin btn-lg">Learn more <i class="fa fa-angle-right"></i></a>-->
@@ -92,7 +92,7 @@
                         </div>
                         <div class="box text-justify">
                             <p>
-                                <?php echo _("On a worldwide level, 47.6 millions of people are suffering dementia,"); ?>
+                                <?php echo _("On a worldwide level, 47.6 million of people are suffering dementia,"); ?>
                             </p>
                         </div>
                     </div>

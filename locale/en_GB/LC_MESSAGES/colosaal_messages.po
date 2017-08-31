@@ -28,11 +28,11 @@ msgstr "English"
 msgid "Europe is approaching to a demographic change."
 msgstr "Europe is approaching to a demographic change. Among other measures, we shall prepare ourselves with politics of active aging that could improve the lives of the families who have some member with problems to carry out his or her daily activity."
 
-msgid "On a worldwide level, 47.6 millions of people are suffering dementia,"
-msgstr "On a worldwide level, 47.6 millions of people are suffering dementia, and there are 7.7 millions of new cases each year. Parkinson's disease affects more than 10 millions of people throughout the world."
+msgid "On a worldwide level, 47.6 million of people are suffering dementia,"
+msgstr "On a worldwide level, 47.6 million of people are suffering dementia, and there are 7.7 millions of new cases each year. Parkinson's disease affects more than 10 millions of people throughout the world."
 
-msgid "The 10% of the world population is born with some kind of disability."
-msgstr "The 10% of the world population is born with some kind of disability. Some people are born with disabilities that imply disadvantages in a non-inclusive society. Others develop a disability throughout their lives because of an accident or an illness. They can and they want to feel capable."
+msgid "10% of the world population is born with some kind of disability."
+msgstr "10% of the world population is born with some kind of disability. Some people are born with disabilities that imply disadvantages in a non-inclusive society. Others develop a disability throughout their lives because of an accident or an illness. They can and they want to feel capable."
 
 msgid "Scientific advancements have a slow advance when it comes to neurodegenerative diseases,"
 msgstr "Scientific advancements have a slow advance when it comes to neurodegenerative diseases, especially because of the erratic funding in basic research. Assistive technologies are not a solution, but they can improve the quality of life of those who suffer from an illness and to better integrate people with some kind of disability."
