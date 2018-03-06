@@ -57,7 +57,7 @@
                     <div class="col-lg-6">
                         <div class="embed-responsive embed-responsive-4by3">
 <!--                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iV_LJNS2-LM"></iframe>-->
-                            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/230922515"></iframe>
+                            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/258775180?autoplay=1&loop=1&autopause=0"></iframe>
                         </div>
                     </div>
                 </div>
